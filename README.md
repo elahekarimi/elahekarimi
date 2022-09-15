@@ -5,7 +5,7 @@
  - B.Sc. in Electronic Engineering at QIAU University.
  - M.Sc. in Digital Electronic Engineering from QIAU University.
  - Python developr.
- - Django developer
+ - Django developer.
  - Machine Learning and Robotics enthusiast.
 
 <!--
