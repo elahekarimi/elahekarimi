@@ -5,8 +5,7 @@
  - B.Sc. in Electronic Engineering at QIAU University.
  - M.Sc. in Digital Electronic Engineering from QIAU University.
  - Python developr.
- - Django developer.
- - Machine Learning and Robotics enthusiast.
+ - Machine Learning Engineer.
 
 <!--
 [![Elahekarimi's github stats](https://github-readme-stats.vercel.app/api?username=elahekarimi&show_icons=true&theme=gruvbox)](https://github.com/elahekarimi/elahekarimi)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elahekarimi&layout=compact&theme=gruvbox)](https://github.com/elahekarimi/elahekarimi)
