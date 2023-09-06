@@ -4,7 +4,7 @@
 
  - B.Sc. in Electronic Engineering at QIAU University.
  - M.Sc. in Digital Electronic Engineering from QIAU University.
- - Python developr.
+ - Data Scientist.
  - Machine Learning Engineer.
 
 <!--
