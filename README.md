@@ -3,7 +3,7 @@
 [![LI](https://img.shields.io/badge/linked-in-007cb5.svg?style=for-the-badge)](https://www.linkedin.com/in/elahe-karimi-987182161/)
 
  - B.Sc. in Electronic Engineering at QIAU University.
- - M.Sc. in Digital Electronic Engineering from QIAU University.
+ - M.Sc. in Digital Electronic & computer Engineering from QIAU University.
  - Data Scientist.
  - Machine Learning Engineer.
 
